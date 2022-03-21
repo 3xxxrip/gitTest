@@ -3,5 +3,6 @@ public class gitTest {
         System.out.println("hello,git");
         System.out.println("hello,git,changed!");
         System.out.println("hello,git,changed! again");
+        System.out.println("hello,git,changed! again by branch1");
     }
 }
