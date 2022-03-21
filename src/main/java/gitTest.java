@@ -5,5 +5,6 @@ public class gitTest {
         System.out.println("hello,git,changed! again");
         System.out.println("hello,git,changed! again by branch1");
         System.out.println("hello,git,changed! again by master code confilct ");
+        System.out.println("hello,git,changed! again by branch1 code confilct");
     }
 }
